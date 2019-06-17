@@ -1,0 +1,6 @@
+name: EzReport
+author: xOffset
+version: 1.0
+main: it.xoffset.Main
+commands:
+   report:
